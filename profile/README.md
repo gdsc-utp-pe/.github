@@ -13,4 +13,8 @@ Nuestro objetivo es crear una comunidad acogedora e inclusiva. Tenga en cuenta q
 
 Obtenga más información sobre lo que estamos haciendo en código abierto en [Discord](https://discord.gg/MqPFZCM4RC)
 
-👋  [@gdsc_utp](https://twitter.com/gdsc_utp)
+## 👋 Contáctanos!  
+[Facebook](https://www.facebook.com/gdsc.utp)
+[Twitter](https://twitter.com/gdsc_utp)
+[Instagram](https://www.instagram.com/gdsc.utp/)
+[Discord](https://discord.gg/MqPFZCM4RC)
