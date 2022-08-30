@@ -9,7 +9,7 @@ Al unirse a un GDSC, los estudiantes aumentan sus conocimientos en un entorno de
 
 Nuestro objetivo es crear una comunidad acogedora e inclusiva. Tenga en cuenta que los proyectos de código abierto se rigen por nuestro [código de conducta](https://github.com/gdsc-utp-pe/.github/blob/main/code-of-conduct.md).
 
-## Contáctanos!
+## Proyectos Open Source
 
 Obtenga más información sobre lo que estamos haciendo en código abierto en [Discord](https://discord.gg/MqPFZCM4RC)
 
