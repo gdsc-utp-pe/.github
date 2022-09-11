@@ -11,7 +11,7 @@ Nuestro objetivo es crear una comunidad acogedora e inclusiva. Tenga en cuenta q
 
 ## Proyectos Open Source
 
-Obtenga más información sobre lo que estamos haciendo en código abierto en [Discord](https://discord.gg/MqPFZCM4RC)
+Obtenga más información sobre lo que estamos haciendo en código abierto en [Discord](https://discord.gg/JMZjDDVD5B)
 
 ## 👋 Contáctanos!  
 [Facebook](https://www.facebook.com/gdsc.utp)
